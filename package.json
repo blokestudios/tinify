@@ -16,12 +16,12 @@
   "author": "Rolf Timmermans <rolftimmermans@voormedia.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tinify/tinify-nodejs.git"
+    "url": "https://github.com/blokestudios/-bloke-tinify.git"
   },
   "files": [
     "lib"
   ],
-  "bugs:": "https://github.com/tinify/tinify-nodejs/issues",
+  "bugs:": "https://github.com/blokestudios/-bloke-tinify/issues",
   "scripts": {
     "test": "rm -rf lib/**.{js,ts} && tsc && tsc --noEmit test/tinify-typing-test.ts && mocha --reporter dot test/*-test.js",
     "integration": "rm -rf lib/**.{js,ts} && tsc && mocha --reporter dot test/integration.js"
