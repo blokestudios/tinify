@@ -1,5 +1,5 @@
 {
-  "name": "@bloke/tinify",
+  "name": "@blokestudios/tinify",
   "version": "0.0.1",
   "description": "Node.js client for the Tinify API. Tinify compresses your images intelligently. Read more at https://tinify.com.",
   "keywords": [
@@ -18,7 +18,7 @@
     "type": "git",
     "url": "git://github.com/blokestudios/-bloke-tinify.git"
   },
- "publishConfig": {
+  "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
   "files": [
