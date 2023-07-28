@@ -1,8 +1,8 @@
 [<img src="https://travis-ci.org/tinify/tinify-nodejs.svg?branch=master" alt="Build Status">](https://travis-ci.org/tinify/tinify-nodejs)
 
-# Tinify API client for Node.js
+# Tinify API client for Node.js for Serverless on AWS Lambda
 
-Node.js client for the Tinify API, used for [TinyPNG](https://tinypng.com) and [TinyJPG](https://tinyjpg.com). Tinify compresses your images intelligently. Read more at [http://tinify.com](http://tinify.com).
+Node.js client for the Tinify API, used for [TinyPNG](https://tinypng.com) and [TinyJPG](https://tinyjpg.com). Tinify compresses your images intelligently. Read more at [http://tinify.com](http://tinify.com). This package modifies the original package to fix issues with cacaert.pem path for serverless on AWS lambda
 
 ## Documentation
 
