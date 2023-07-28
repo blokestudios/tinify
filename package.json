@@ -18,6 +18,9 @@
     "type": "git",
     "url": "git://github.com/blokestudios/-bloke-tinify.git"
   },
+ "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
   "files": [
     "lib"
   ],
